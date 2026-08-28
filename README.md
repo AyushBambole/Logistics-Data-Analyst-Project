@@ -64,6 +64,3 @@ pip install pandas numpy scikit-learn scipy
 python logistics_prediction_optimization.py
 ```
 
-## Important note
-
-The dataset is **synthetic** and intended for academic demonstration. The values and model performance must not be interpreted as real logistics-company performance.
